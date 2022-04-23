@@ -1,4 +1,4 @@
-# agile-final-project
+# Agile-final-project
 
 **STAKEHOLDER REQUIREMENTS** - These are the requirements from your stakeholders that you should use to create the user stories in ZenHub. 
 
