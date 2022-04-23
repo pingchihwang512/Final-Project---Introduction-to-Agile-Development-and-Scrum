@@ -1,6 +1,6 @@
 # agile-final-project
 
-**STAKEHOLDER REQUIREMENTS - These are the requirements from your stakeholders that you should use to create the user stories in ZenHub. 
+**STAKEHOLDER REQUIREMENTS** - These are the requirements from your stakeholders that you should use to create the user stories in ZenHub. 
 
  1. Need the ability to create a product in the catalog. 
 
@@ -22,7 +22,7 @@
 
 10.  Must have automation to deploy new changes to the cloud. 
 
-**INSTRUCTIONAL TASKS  - To help you finish the final project, we have provided a list of instructional tasks to guide you:  
+**INSTRUCTIONAL TASKS**  - To help you finish the final project, we have provided a list of instructional tasks to guide you:  
 
 - Create a new GitHub repository called "agile-final-project" and make sure that it is public. 
 
